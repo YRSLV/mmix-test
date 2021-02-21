@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '2.0.40',
-    'version' => '2.0.40.0',
+    'pretty_version' => 'dev-develop',
+    'version' => 'dev-develop',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '640dbba1267b36d25f1fcd29f24358463ba67e39',
     'name' => 'yiisoft/yii2-app-basic',
   ),
   'versions' => 
@@ -19,6 +19,15 @@
       array (
       ),
       'reference' => '2391482cd003dfdc36b679b27e9f5326bd656acd',
+    ),
+    'borales/yii2-phone-input' => 
+    array (
+      'pretty_version' => '0.3.0',
+      'version' => '0.3.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '563bfab9afed717422e1db848180c6dde706a907',
     ),
     'bower-asset/bootstrap' => 
     array (
@@ -37,6 +46,15 @@
       array (
       ),
       'reference' => '5e670ad62f50c738388d4dcec78d2888505ad77b',
+    ),
+    'bower-asset/intl-tel-input' => 
+    array (
+      'pretty_version' => 'v16.1.0',
+      'version' => '16.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '52211bd88178f2cbed022b24d154ef980aef2878',
     ),
     'bower-asset/jquery' => 
     array (
@@ -208,6 +226,24 @@
       array (
       ),
       'reference' => 'ab3f5364d01f2c2c16113442fb987d26e4004913',
+    ),
+    'giggsey/libphonenumber-for-php' => 
+    array (
+      'pretty_version' => '8.12.18',
+      'version' => '8.12.18.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '2d50e0aea1f70508b39a3d22c62d24d66d532ed2',
+    ),
+    'giggsey/locale' => 
+    array (
+      'pretty_version' => '1.9',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b07f1eace8072ccc61445ad8fbd493ff9d783043',
     ),
     'guzzlehttp/psr7' => 
     array (
@@ -747,12 +783,12 @@
     ),
     'yiisoft/yii2-app-basic' => 
     array (
-      'pretty_version' => '2.0.40',
-      'version' => '2.0.40.0',
+      'pretty_version' => 'dev-develop',
+      'version' => 'dev-develop',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '640dbba1267b36d25f1fcd29f24358463ba67e39',
     ),
     'yiisoft/yii2-bootstrap' => 
     array (
